@@ -16,11 +16,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "HDRIBackdrop",
+			"Name": "HttpBlueprint",
 			"Enabled": true
 		},
 		{
-			"Name": "HttpBlueprint",
+			"Name": "HDRIBackdrop",
 			"Enabled": true
 		}
 	]
